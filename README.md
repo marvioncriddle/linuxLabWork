@@ -1,4 +1,4 @@
-<h1>Linue Lab</h1>
+<h1>Linux Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
